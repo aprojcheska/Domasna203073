@@ -1,0 +1,24 @@
+.textInputField{
+    border: 1px solid #61dafb;
+}
+
+.customCard{
+    background: #ffffff;
+    mix-blend-mode: normal;
+    box-shadow: 0px 10px 15px rgba(133,133,133, 0.05);
+    border-radius: 8px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.customCard:hover{
+    cursor: pointer;
+
+    box-shadow: 0px 10px 15px rgba(175,238,238, 0.5);
+}
+
+.customImage{
+    margin-right: 10px;
+}
+.customFormGroup{
+    margin-bottom: 10px;
+}
